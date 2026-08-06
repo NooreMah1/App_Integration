@@ -1,0 +1,10 @@
+opencv-python
+PyMuPDF
+numpy
+pypdf
+reportlab
+groq
+python-dotenv
+openai
+pillow
+PyQt5
